@@ -1,4 +1,4 @@
-# Fine-Tuned Transformer
+# T5 Bible Styling
 
 This project fine-tunes a pre-trained T5 (Text-to-Text Transfer Transformer) model for the specific task of converting normal text into KJV-style English.
 
