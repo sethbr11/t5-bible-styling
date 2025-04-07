@@ -1,4 +1,6 @@
 ipykernel
+kagglehub
+pandas
 transformers==4.48.0
 torch==2.5.1
 accelerate==1.5.2
