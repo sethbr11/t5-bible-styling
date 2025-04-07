@@ -1,3 +1,5 @@
 .DS_Store
 data/kjv.csv
 data/web.csv
+t5-scripture-style/
+.venv/
