@@ -45,6 +45,8 @@ This project fine-tunes a pre-trained T5 (Text-to-Text Transfer Transformer) mod
 
 2. Save the fine-tuned model for inference or further use.
 
+Alternatively, you can use the `train.py` file to run it through the command line. Try using commands like the following to run as a background process: `nohup python -u train.py > output.log 2>&1 &`.
+
 ## Notes
 
 - If you encounter a warning about `IProgress` not being found, ensure that `ipywidgets` is installed and up-to-date. Or just ignore it.

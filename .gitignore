@@ -3,4 +3,6 @@ data/kjv.csv
 data/web.csv
 t5-scripture-style/
 .venv/
-fine_tuned_model.zip
+*.zip
+t5-*/
+output.log
